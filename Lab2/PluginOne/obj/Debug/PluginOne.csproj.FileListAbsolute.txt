@@ -1,0 +1,9 @@
+C:\Users\artem\source\repos\Lab2\PluginOne\bin\Debug\PluginOne.dll
+C:\Users\artem\source\repos\Lab2\PluginOne\bin\Debug\PluginOne.pdb
+C:\Users\artem\source\repos\Lab2\PluginOne\bin\Debug\PluginInterface.dll
+C:\Users\artem\source\repos\Lab2\PluginOne\bin\Debug\PluginInterface.pdb
+C:\Users\artem\source\repos\Lab2\PluginOne\obj\Debug\PluginOne.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\Lab2\PluginOne\obj\Debug\PluginOne.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\Lab2\PluginOne\obj\Debug\PluginOne.csproj.CopyComplete
+C:\Users\artem\source\repos\Lab2\PluginOne\obj\Debug\PluginOne.dll
+C:\Users\artem\source\repos\Lab2\PluginOne\obj\Debug\PluginOne.pdb
