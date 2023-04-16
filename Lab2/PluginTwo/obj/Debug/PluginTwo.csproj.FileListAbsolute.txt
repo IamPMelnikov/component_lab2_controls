@@ -1,0 +1,9 @@
+C:\Users\artem\source\repos\Lab2\PluginTwo\bin\Debug\PluginTwo.dll
+C:\Users\artem\source\repos\Lab2\PluginTwo\bin\Debug\PluginTwo.pdb
+C:\Users\artem\source\repos\Lab2\PluginTwo\bin\Debug\PluginInterface.dll
+C:\Users\artem\source\repos\Lab2\PluginTwo\bin\Debug\PluginInterface.pdb
+C:\Users\artem\source\repos\Lab2\PluginTwo\obj\Debug\PluginTwo.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\Lab2\PluginTwo\obj\Debug\PluginTwo.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\Lab2\PluginTwo\obj\Debug\PluginTwo.csproj.CopyComplete
+C:\Users\artem\source\repos\Lab2\PluginTwo\obj\Debug\PluginTwo.dll
+C:\Users\artem\source\repos\Lab2\PluginTwo\obj\Debug\PluginTwo.pdb

@@ -1,0 +1,12 @@
+C:\Users\artem\source\repos\Lab2\PluginProject\bin\Debug\PluginInterface.dll
+C:\Users\artem\source\repos\Lab2\PluginProject\bin\Debug\PluginInterface.pdb
+C:\Users\artem\source\repos\Lab2\PluginProject\obj\Debug\PluginInterface.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\Lab2\PluginProject\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\Lab2\PluginProject\obj\Debug\PluginInterface.dll
+C:\Users\artem\source\repos\Lab2\PluginProject\obj\Debug\PluginInterface.pdb
+C:\Users\User\source\repos\Lab2\PluginProject\bin\Debug\PluginInterface.dll
+C:\Users\User\source\repos\Lab2\PluginProject\bin\Debug\PluginInterface.pdb
+C:\Users\User\source\repos\Lab2\PluginProject\obj\Debug\PluginInterface.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lab2\PluginProject\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab2\PluginProject\obj\Debug\PluginInterface.dll
+C:\Users\User\source\repos\Lab2\PluginProject\obj\Debug\PluginInterface.pdb
